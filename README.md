@@ -10,3 +10,5 @@ cd ../graphql-crashing-client
 yarn
 yarn start
 ```
+
+Apollo playground: `http://localhost:4000/`
