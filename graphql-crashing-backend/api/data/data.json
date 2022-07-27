@@ -1,0 +1,53 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "name": "Led Zeppelin",
+      "img_url": "http://static.thetoptens.com/img/lists/335.jpg",
+      "info": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of Robert Plant (Vocal), Jimmy Page (Guitar), John Paul Jones (Bass, Keyboard) and John Bonham (Drums). The band's heavy, guitar-driven sound, rooted in blues and psychedelia on their early albums, has earned them recognition as one of the progenitors of heavy metal. They achieved significant commercial success with albums such as Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Led Zeppelin IV (1971), Houses of the Holy (1973), and Physical Graffiti (1975). Their song ‘Stairway to Heaven’ is among the most popular and influential rock music of all time.Led Zeppelin are widely considered one of the most successful, innovative, and influential rock groups in history.They are one of the best - selling music artists in the history of audio recording;various sources estimate the group 's record sales at 200 to 300 million units worldwide. With RIAA-certified sales of 111.5 million units, they are the second-best-selling band in the United States. They were inducted into the Rock Hall of Fame in 1995.",
+      "genre": "rock"
+    },
+    {
+      "id": 2,
+      "name": "Pink Floyd",
+      "img_url": "http://static.thetoptens.com/img/lists/337lg.jpg",
+      "info": "Pink Floyd were an English rock band formed in London. They achieved international acclaim with their progressive and psychedelic music. The band consisted of 5 members - David Gilmour, Syd Barrett, Nick Mason, Roger Waters, and Richard Wright.Their critically and commercially successful albums are The Dark Side of the Moon(1973), Wish You Were Here(1975), Animals(1977), The Wall(1979) and The Final Cut(1983).The Dark Side of the Moon is also considered as one of the best albums of all time.Pink Floyd were inducted into the Rock and Roll Hall of Fame in 1996. ",
+      "genre": "rock"
+    },
+    {
+      "id": 3,
+      "name": "Queen",
+      "img_url": "http://static.thetoptens.com/img/lists/587lg.jpg",
+      "info": "Queen are a British rock group formed in 1970. Members were Freddie Mercury (Vocals and Piano), Brian May (Guitar, Vocals), Roger Taylor (Drums, Vocals), and John Deacon (Bass Guitar, Vocals). Before forming into Queen, Brian May and Roger Taylor had played together in a band named Smile. Freddie Mercury was a fan of Smile and encouraged them to experiment with more elaborate stage and recording techniques. He then joined the band in 1970, suggested 'Queen ' as a new band name, and adopted his familiar stage name. John Deacon was also recruited to complete the line-up.Their release of the album 'A Night at the Opera' in 1975, brought them international success.They entered the mainstream with the album 's track 'Bohemian Rhapsody', which stayed at number one in the UK for nine weeks and popularised the music video. Their 1977 album, News of the World, contained 'We Will Rock You' and 'We Are the Champions', which also have become anthems at sporting events. In 1991, while embracing their success and their fans, Mercury died of bronchopneumonia, an AIDS-related disease. Deacon then retired in 1997. After that, both Brian May and Roger Taylor returned to the state of Smile band, although they kept the 'Queen' name. ",
+      "genre": "rock"
+    },
+    {
+      "id": 4,
+      "name": "AC/DC",
+      "img_url": "http://static.thetoptens.com/img/lists/1712lg.jpg",
+      "info": "AC/DC are an Australian hard rock band, formed in November 1973 by brothers Malcolm and Angus Young, who continued as members until Malcolm's illness and departure in 2014. Commonly referred to as a hard rock or blues rock band, they are also considered pioneers of heavy metal.",
+      "genre": "Heavy Metal"
+    },
+    {
+      "id": 5,
+      "name": "The Rolling Stones",
+      "img_url": "http://static.thetoptens.com/img/lists/331lg.jpg",
+      "info": "The Rolling Stones are an English rock band formed in London in 1962. The first settled line-up consisted of Brian Jones (guitar, harmonica), Ian Stewart (piano), Mick Jagger (lead vocals, harmonica), Keith Richards (guitar), Bill Wyman (bass) and Charlie Watts (drums).Their best works include songs like Paint it Black , Sympathy for the Devil, Satisfication(Which ranked no.2 in The Rolling Stones Magazine’ s best songs of all time list).The Rolling Stones were inducted into the Rock and Roll Hall of Fame in 1989, and the UK Music Hall of Fame in 2004. In 2012, the band celebrated its 50 th anniversary.",
+      "genre": "rock"
+    },
+    {
+      "id": 6,
+      "name": "Guns N' Roses",
+      "img_url": "http://static.thetoptens.com/img/lists/590lg.jpg",
+      "info": "Guns N' Roses is an American hard rock band from Los Angeles formed in 1985. The classic lineup, as signed to Geffen Records in 1986, consisted of vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler.",
+      "genre": "hard rock"
+    },
+    {
+      "id": 9,
+      "name": "Gojira",
+      "img_url": "https://1.bp.blogspot.com/-4GA58k2vivU/V3Vxb9qpuUI/AAAAAAAADJY/6YKDML5nALMJ9Ob5FyUoSplixVaIXDZvQCLcB/s1600/Gojira.jpg",
+      "info": "French metal band.",
+      "genre": "Metal"
+    }
+  ]
+}

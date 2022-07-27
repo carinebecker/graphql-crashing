@@ -1,0 +1,24 @@
+const { gql } = require('apollo-server');
+
+const bandSchema = gql`
+  type Band {
+    id: ID!
+    name: String!,
+    img_url: String,
+    info: String!,
+    genre: String!
+  }
+
+  type Query {
+    bands: [Band]!,
+    band(id: ID!): Band!,
+  }
+
+  type Mutation {
+    addBand(name: String!, img_url: String, info: String!, genre: String!): Band!,
+    deleteBand(id: ID!): ID!,
+    editBand(id: ID!, name: String!, img_url: String, info: String!, genre: String!): Band!,
+  }
+`
+
+module.exports = bandSchema;

@@ -1,0 +1,21 @@
+{
+  "name": "graphql-crashing-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,graphql,json index.js",
+    "data": "json-server --watch ./api/data/data.json -p 3003",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.6.1",
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  }
+}
